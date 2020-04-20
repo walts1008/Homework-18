@@ -13,3 +13,7 @@ When brought back online:
 User Story
 
     AS AN someone whonis looking to manage his finances a lot more accurately. I WANT to be able to track my deposits  and withdrawals  with or without a data/internet connection SO THAT my account balance is accurate when I check it.
+
+Business Context
+
+    Giving users a fast and easy way to track their money is important, but allowing them to access that information anytime is even more important. Having offline functionality is important to our applications success.
